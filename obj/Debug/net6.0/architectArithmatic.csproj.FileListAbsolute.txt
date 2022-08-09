@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/bin/Debug/net6.0/architectArithmatic
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/bin/Debug/net6.0/architectArithmatic.deps.json
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/bin/Debug/net6.0/architectArithmatic.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/bin/Debug/net6.0/architectArithmatic.dll
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/bin/Debug/net6.0/architectArithmatic.pdb
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.dll
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/refint/architectArithmatic.dll
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.pdb
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/architectArithmatic.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/architectArithmatic/obj/Debug/net6.0/ref/architectArithmatic.dll
